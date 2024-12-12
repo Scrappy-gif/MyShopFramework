@@ -1,0 +1,20 @@
+[INFO ] 2024-12-10 16:31:56.652 [main] MyShop - ********Data Driven Test Case Starts********
+[INFO ] 2024-12-10 16:31:56.660 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-12-10 16:31:57.873 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-12-10 16:31:57.905 [main] MyShop - User landed on create account page
+[INFO ] 2024-12-10 16:31:58.094 [main] MyShop - User Enter Email id
+[INFO ] 2024-12-10 16:31:58.226 [main] MyShop - User Click create buuton
+[INFO ] 2024-12-10 16:31:58.239 [main] MyShop - User landed on Registration page
+[INFO ] 2024-12-10 16:31:59.335 [main] MyShop - User selected mrs radio button
+[INFO ] 2024-12-10 16:31:59.441 [main] MyShop - User enter firstname
+[INFO ] 2024-12-10 16:31:59.565 [main] MyShop - User enter lastname
+[INFO ] 2024-12-10 16:31:59.795 [main] MyShop - User enter email
+[INFO ] 2024-12-10 16:31:59.949 [main] MyShop - User enter password
+[INFO ] 2024-12-10 16:32:00.153 [main] MyShop - User enter day
+[INFO ] 2024-12-10 16:32:00.327 [main] MyShop - User enter month
+[INFO ] 2024-12-10 16:32:00.475 [main] MyShop - User enter month
+[INFO ] 2024-12-10 16:32:17.381 [main] MyShop - User Click on Regsiter Button
+[INFO ] 2024-12-10 16:32:18.008 [main] MyShop - ********Data Driven Test Case Starts********
+[INFO ] 2024-12-10 16:32:18.008 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-12-10 16:32:20.486 [main] MyShop - ********Data Driven Test Case Starts********
+[INFO ] 2024-12-10 16:32:20.486 [main] MyShop - User Successfully enter into the application

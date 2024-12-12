@@ -1,0 +1,115 @@
+[INFO ] 2024-10-07 15:15:25.910 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:15:25.922 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:15:27.140 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:15:27.162 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:15:27.293 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:15:27.410 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:15:28.589 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:15:28.589 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 15:28:16.817 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:28:16.836 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:28:17.980 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:28:17.999 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:28:18.136 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:28:18.256 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:28:19.570 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:28:19.572 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 15:28:19.617 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 15:33:21.255 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:33:21.275 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:33:22.737 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:33:22.782 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:33:22.985 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:33:23.147 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:33:24.167 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:33:24.170 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 15:33:24.230 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 15:48:11.440 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:48:11.448 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:48:13.230 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:48:13.243 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:48:13.324 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:48:13.393 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:48:15.774 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:48:15.776 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 15:48:15.803 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 15:48:15.805 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 15:51:28.958 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:51:28.964 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:51:30.030 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:51:30.047 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:51:30.131 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:51:30.209 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:51:31.538 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:51:31.539 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 15:51:31.566 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 15:51:31.567 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 15:57:48.058 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 15:57:48.064 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 15:57:50.012 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 15:57:50.022 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 15:57:50.119 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 15:57:50.202 [main] MyShop - User enter password
+[INFO ] 2024-10-07 15:57:51.746 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 15:57:51.747 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 15:57:51.761 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 15:57:51.761 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 16:11:58.343 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 16:11:58.349 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 16:11:59.506 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 16:11:59.525 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 16:11:59.623 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 16:11:59.704 [main] MyShop - User enter password
+[INFO ] 2024-10-07 16:12:00.735 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 16:12:00.736 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 16:12:00.750 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 16:12:00.750 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 16:47:36.520 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 16:47:36.527 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 16:47:37.526 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 16:47:37.540 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 16:47:37.626 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 16:47:37.705 [main] MyShop - User enter password
+[INFO ] 2024-10-07 16:47:38.634 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 16:47:38.639 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 16:47:38.678 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 16:47:38.683 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 16:57:02.041 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 16:57:02.046 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 16:57:03.166 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 16:57:03.176 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 16:57:03.257 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 16:57:03.330 [main] MyShop - User enter password
+[INFO ] 2024-10-07 16:57:04.498 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 16:57:04.499 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 16:57:04.527 [main] MyShop - Verify login- Paased
+[INFO ] 2024-10-07 16:57:04.529 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-07 17:00:14.512 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 17:00:14.521 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 17:01:36.107 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 17:01:36.113 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 17:01:37.076 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 17:01:37.091 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 17:01:37.172 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 17:01:37.244 [main] MyShop - User enter password
+[INFO ] 2024-10-07 17:01:38.286 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 17:01:38.289 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 17:01:38.316 [main] MyShop - Verify Login- failed
+[INFO ] 2024-10-07 17:11:04.156 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 17:11:04.162 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 17:11:05.074 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 17:11:05.087 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 17:11:05.172 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 17:11:05.258 [main] MyShop - User enter password
+[INFO ] 2024-10-07 17:11:06.746 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 17:11:06.747 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 17:11:06.775 [main] MyShop - Verify Login- failed
+[INFO ] 2024-10-07 17:13:08.253 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-07 17:13:08.258 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-07 17:13:10.148 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-07 17:13:10.164 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-07 17:13:10.260 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-07 17:13:10.352 [main] MyShop - User enter password
+[INFO ] 2024-10-07 17:13:12.184 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-07 17:13:12.187 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-07 17:13:12.222 [main] MyShop - Verify Login- failed

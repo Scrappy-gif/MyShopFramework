@@ -1,0 +1,7 @@
+[INFO ] 2024-10-19 14:59:35.220 [main] MyShop - ********Verify Search Functionality Test Case Starts********
+[INFO ] 2024-10-19 14:59:35.235 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-19 14:59:36.168 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-19 14:59:36.198 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-19 14:59:36.428 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-19 14:59:36.615 [main] MyShop - User enter password
+[INFO ] 2024-10-19 14:59:37.535 [main] MyShop - User Successfully Sign in into application

@@ -1,0 +1,10 @@
+[INFO ] 2024-10-09 16:20:13.315 [TestNG-tests-1] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-09 16:20:13.327 [TestNG-tests-1] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-09 16:20:14.708 [TestNG-tests-1] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-09 16:20:14.736 [TestNG-tests-1] MyShop - User landed on create account page
+[INFO ] 2024-10-09 16:20:14.973 [TestNG-tests-1] MyShop - User Enter Email id
+[INFO ] 2024-10-09 16:20:15.159 [TestNG-tests-1] MyShop - User enter password
+[INFO ] 2024-10-09 16:20:16.263 [TestNG-tests-1] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-09 16:20:16.268 [TestNG-tests-1] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-09 16:20:16.336 [TestNG-tests-1] MyShop - Verify login- Paased
+[INFO ] 2024-10-09 16:20:16.336 [TestNG-tests-1] MyShop - ********Login Functionality Test Case Ends********

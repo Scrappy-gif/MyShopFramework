@@ -1,0 +1,12 @@
+[INFO ] 2024-10-11 16:25:52.773 [main] MyShop - ********Verify Product Functionality Test Case Started********
+[INFO ] 2024-10-11 16:25:56.913 [main] MyShop - ********Verify Search Functionality Test Case Starts********
+[INFO ] 2024-10-11 16:25:56.920 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-11 16:25:58.075 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-11 16:25:58.104 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-11 16:25:58.278 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-11 16:25:58.415 [main] MyShop - User enter password
+[INFO ] 2024-10-11 16:26:00.442 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-11 16:26:00.452 [main] MyShop - ********Verify Search Functionality Test Case Starts********
+[INFO ] 2024-10-11 16:26:00.596 [main] MyShop - User search fro proudct dresses
+[INFO ] 2024-10-11 16:26:01.867 [main] MyShop - User click on search button
+[INFO ] 2024-10-11 16:26:01.867 [main] MyShop - ********Verify Search Functionality Test Case Ends********

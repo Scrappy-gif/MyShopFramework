@@ -1,0 +1,25 @@
+[INFO ] 2024-10-21 17:26:07.370 [main] MyShop - ********Verify Product Functionality Test Case Started********
+[INFO ] 2024-10-21 17:26:15.907 [main] MyShop - ********Verify Search Functionality Test Case Starts********
+[INFO ] 2024-10-21 17:26:15.911 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-21 17:26:17.124 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-21 17:26:17.127 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-21 17:26:17.219 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-21 17:26:17.311 [main] MyShop - User enter password
+[INFO ] 2024-10-21 17:26:18.572 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-21 17:26:27.399 [main] MyShop - ********Login Functionality Test Case Starts********
+[INFO ] 2024-10-21 17:26:27.399 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-10-21 17:26:29.946 [main] MyShop - User Clicked on Sign in Link
+[INFO ] 2024-10-21 17:26:29.947 [main] MyShop - User landed on create account page
+[INFO ] 2024-10-21 17:26:30.023 [main] MyShop - User Enter Email id
+[INFO ] 2024-10-21 17:26:30.092 [main] MyShop - User enter password
+[INFO ] 2024-10-21 17:26:33.317 [main] MyShop - User Successfully Sign in into application
+[INFO ] 2024-10-21 17:26:33.318 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-10-21 17:26:33.333 [main] MyShop - Verify Login- failed
+[INFO ] 2024-10-21 17:26:33.510 [main] MyShop - ********Login Functionality Test Case Ends********
+[INFO ] 2024-10-21 17:26:33.515 [main] MyShop - ********Logout Functionality Test Case Started********
+[INFO ] 2024-10-21 17:26:36.653 [main] MyShop - User Click on sign out button
+[INFO ] 2024-10-21 17:26:36.654 [main] MyShop - ********Logout Functionality Test Case Ends********
+[INFO ] 2024-10-21 17:26:36.658 [main] MyShop - ********Verify Search Functionality Test Case Starts********
+[INFO ] 2024-10-21 17:26:36.719 [main] MyShop - User search fro proudct dresses
+[INFO ] 2024-10-21 17:26:38.366 [main] MyShop - User click on search button
+[INFO ] 2024-10-21 17:26:38.367 [main] MyShop - ********Verify Search Functionality Test Case Ends********

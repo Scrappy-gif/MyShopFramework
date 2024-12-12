@@ -1,0 +1,17 @@
+[INFO ] 2024-12-07 12:39:51.446 [main] MyShop - User Successfully enter into the application
+[INFO ] 2024-12-07 12:39:52.522 [main] MyShop - User Click on Sign in link
+[INFO ] 2024-12-07 12:39:52.550 [main] MyShop - User landed on create account page
+[INFO ] 2024-12-07 12:39:52.763 [main] MyShop - User Enter Email id
+[INFO ] 2024-12-07 12:39:52.863 [main] MyShop - User Click create buuton
+[INFO ] 2024-12-07 12:39:52.867 [main] MyShop - User landed on Registration page
+[INFO ] 2024-12-07 12:39:53.901 [main] MyShop - User selected mrs radio button
+[INFO ] 2024-12-07 12:39:54.004 [main] MyShop - User enter firstname
+[INFO ] 2024-12-07 12:39:54.117 [main] MyShop - User enter lastname
+[INFO ] 2024-12-07 12:39:54.443 [main] MyShop - User enter email
+[INFO ] 2024-12-07 12:39:54.613 [main] MyShop - User enter password
+[INFO ] 2024-12-07 12:39:54.814 [main] MyShop - User enter day
+[INFO ] 2024-12-07 12:39:54.988 [main] MyShop - User enter month
+[INFO ] 2024-12-07 12:39:55.159 [main] MyShop - User enter month
+[INFO ] 2024-12-07 12:40:00.563 [main] MyShop - User Click on Regsiter Button
+[INFO ] 2024-12-07 12:40:00.563 [main] MyShop - User landed on suucessfuuly regsiter account page
+[INFO ] 2024-12-07 12:40:00.616 [main] MyShop - ********User Regsitraion Functionality Test Case Ends********
